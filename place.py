@@ -10,3 +10,4 @@ def check_if_place_important
     if self.priority <= 2
         return self.important = True
 
+test
